@@ -10,4 +10,5 @@ Vous incarnez Lien, jeune homme qui arrive dans un petit village où l'eau a mys
 - C
 - [Librairie SDL](https://www.libsdl.org)
 
+## Capture
 ![](https://github.com/clementcolne/SuperPixelAdventure/blob/master/superpixeladventure.png)
